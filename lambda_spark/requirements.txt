@@ -1,0 +1,3 @@
+boto3==1.34.162
+# Para simulación local con PySpark (no en Lambda estándar):
+# pyspark==3.5.1
